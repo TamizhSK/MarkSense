@@ -1,0 +1,7 @@
+Anaconda3
+Python
+NumPy
+OpenCV
+TensorFlow
+Mediapipe
+Keras
