@@ -1,32 +1,45 @@
-# MarkSense👋: A Sign Language Detection Project
+# MarkSense👋 : Sign Language Detection
 
-MarkSense is an innovative project developed to detect sign language, specifically designed to assist individuals who are unable to speak. By leveraging cutting-edge technologies and machine learning algorithms, MarkSense empowers users to communicate effectively using sign language.
+MarkSense is a real-time sign language detection system designed to assist individuals with speech impairments. It uses machine learning to recognize gestures and translate them into meaningful output.
 
-## Features 
+## Features
 
-- **Real-time Detection:** MarkSense provides real-time detection of sign language gestures, enabling instantaneous communication.
-- **User-friendly Interface:** With a simple and intuitive interface, users can easily interact with MarkSense without any hassle.
-- **Accurate Recognition:** Utilizing advanced algorithms, MarkSense ensures accurate recognition of sign language gestures, enhancing communication accuracy.
-- **Customizable:** MarkSense allows users to customize and train the system according to their specific sign language requirements.
-- **Compatibility:** Developed using Anaconda3, Python, NumPy, OpenCV, TensorFlow, Mediapipe, and Keras, MarkSense offers seamless compatibility across different platforms.
+- Real-time gesture recognition
+- High accuracy with TensorFlow & Mediapipe
+- Custom gesture training support
+- Cross-platform compatibility
+- Lightweight, user-friendly interface
 
-## Getting Started 
+## Tech Stack
 
-1. Clone the MarkSense repository to your local machine.
-2. Install the required dependencies listed in the `packages.txt` file.
-3. Collect the data by running the `datacollection.py` file.
-4. Run the `test.py` script to launch the application.
-5. Start communicating using sign language gestures with MarkSense!
+- Python, OpenCV, NumPy
+- TensorFlow, Keras, Mediapipe
+- Anaconda3 (recommended environment)
 
-## Feedback 
+## Getting Started
 
-We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using MarkSense, please don't hesitate to reach out to us. Your input helps us improve MarkSense and make it more accessible and user-friendly for everyone.
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/marksense.git
+   cd marksense
+   ```
+2. Install dependencies:
+```
+pip install -r packages.txt
+```
 
-## Dependencies 
+3. Collect gesture data:
 
-Please refer to the `packages.txt` file for a list of required packages and their versions.
+```
+python datacollection.py
+```
 
-**Note:** Kindly ensure that you have installed all the dependencies listed in the `packages.txt` file before running MarkSense.
+4. Test the system:
 
+```
+python test.py
+```
 
- 
+## Contributing & Feedback
+
+Feel free to open issues or submit PRs.
