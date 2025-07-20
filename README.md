@@ -23,8 +23,12 @@ MarkSense is a real-time sign language detection system designed to assist indiv
    git clone https://github.com/yourusername/marksense.git
    cd marksense
    ```
-2. Install dependencies:
+2. Install dependencies in a virtual environment:
 ```
+python -m venv test_env
+
+test_env\Scripts\activate
+
 pip install -r packages.txt
 ```
 
