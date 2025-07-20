@@ -46,4 +46,4 @@ python test.py
 
 ## Contributing & Feedback
 
-Feel free to open issues or submit PRs.
+Feel free to open issues or submit PRs!
