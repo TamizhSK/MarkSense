@@ -1,0 +1,7 @@
+{
+  "config": {
+    "debug": false,
+    "timeout": 3685,
+    "retries": 5
+  }
+}
