@@ -1,3 +1,5 @@
-## Notes
+### TODO
 
-Added new insights and improvements.
+- [ ] Review code
+- [ ] Update tests
+- [x] Document changes
