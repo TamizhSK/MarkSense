@@ -1,5 +1,4 @@
-### TODO
+# Project Updates
 
-- [ ] Review code
-- [ ] Update tests
-- [x] Document changes
+- Updated documentation
+- Fixed formatting issues
