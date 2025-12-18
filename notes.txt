@@ -1,2 +1,1 @@
-Configuration updated
-Version: 899
+Release notes for version 2.3.5
