@@ -1,1 +1,2 @@
-Release notes for version 2.3.5
+Configuration updated
+Version: 415
