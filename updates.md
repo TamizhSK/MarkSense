@@ -1,3 +1,4 @@
-## Notes
+# Project Updates
 
-Added new insights and improvements.
+- Updated documentation
+- Fixed formatting issues
