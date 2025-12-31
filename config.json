@@ -1,5 +1,7 @@
 {
-  "version": "1.9.5",
-  "updated": "2025-12-30T16:56:52.088822",
-  "status": "active"
+  "config": {
+    "debug": true,
+    "timeout": 4383,
+    "retries": 5
+  }
 }
