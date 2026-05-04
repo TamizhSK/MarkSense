@@ -1,2 +1,1 @@
-Configuration updated
-Version: 331
+Release notes for version 1.4.4
