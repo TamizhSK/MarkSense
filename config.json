@@ -1,7 +1,7 @@
 {
-  "config": {
-    "debug": true,
-    "timeout": 2834,
-    "retries": 3
+  "metadata": {
+    "build": 779,
+    "timestamp": 1778264474,
+    "environment": "development"
   }
 }
