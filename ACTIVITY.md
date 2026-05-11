@@ -1,6 +1,5 @@
-# Changelog
+### TODO
 
-## [1.0.1] - 2026-05-08
-
-### Changed
-- Minor improvements
+- [ ] Review code
+- [ ] Update tests
+- [x] Document changes
